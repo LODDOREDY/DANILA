@@ -1,0 +1,18 @@
+h1 {
+    background-image: linear-gradient(to right, red, lightgreen,yellow);
+    text-align: center;
+}
+.Name {
+    text-align: right;
+    font-size: 20px;
+}
+.oleg {
+    width: 600px;
+    height: 300px
+}
+main {
+    background-image: linear-gradient(to right, white, yellow);
+}
+p {
+    font-size: 25px;
+}
